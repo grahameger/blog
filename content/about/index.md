@@ -1,11 +1,11 @@
 ---
-title: "_index"
+title: "About me"
 date: 2017-07-12
-draft: true
+draft: false
 ---
 
-About Me!
----------
+About me!
+----------
 
 My name is Graham Eger and I am Sophomore persuing a Bachelors in Science in Computer Science at the University of Michigan--Ann Arbor. My hometown is Grosse Pointe Shores, Michigan. I have a passion for science and technology. In my free time I enjoy sailing.
 
